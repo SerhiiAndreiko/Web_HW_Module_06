@@ -1,0 +1,1 @@
+select avg(grade) as avg_grade from grades;
